@@ -1,14 +1,12 @@
 # app_strings
 
-A new Flutter package project.
+Simple and secure way to internationalize your app strings.
 
-## Getting Started
 
-This project is a starting point for a Dart
-[package](https://flutter.dev/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
+With App Strings you have:
+  - NullSafe Strings
+  - Strings with dynamic parameters
+  - Auto-complete strings names
+  - Bold, Italic and colored spans whithout any new code.
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+
